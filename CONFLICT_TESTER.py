@@ -5,19 +5,22 @@ print(f'test line 1')
 A BUNCH OF COMMENTED CODE HERE
 
 1234567890-
-qwertyuiop
+"changing here for checking purposes"
 
 fdshajk;fadhs
 
 
 dklfjdk
-dfjkfdkfdfjkl
+"cahnges for conflict"
 
 '''
 
 list1 = ["a","b","c","d","e"]
 
 print(list1[1])
+print(list2[1])
+print(list3[1])
+
 
 '''
 A BUNCH OF COMMENTED CODE HERE 2nd SECTION
@@ -25,8 +28,7 @@ A BUNCH OF COMMENTED CODE HERE 2nd SECTION
 SOME RANDOM TEXT
 qwertyuiop
 
-fdshajk;fadhs
-
+subbing this code instead
 
 dklfjdk
 dfjkfdkfdfjkl
