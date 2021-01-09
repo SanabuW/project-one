@@ -46,3 +46,25 @@ list2[2]
 some more test code
 
 '''
+
+
+#SW - added onto after 1/08/21 7:17 PST
+list3 = ["green", "yellow", "purple"]
+
+list3[1]
+
+'''
+
+some more test code to test
+
+djfskadfjkas;df
+fdj
+afkajdfa
+fajkdfkasfj
+asdfjkajfa
+fdjfadkdfa
+f
+dksjk
+
+
+'''
