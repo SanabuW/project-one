@@ -1,0 +1,2 @@
+# api key for YELP api
+yelpkey = "XzSNnJtfDK5IpktOiRC0ZE0n5I5jRh2UX6TEcURPglld794gH8y4vifAS6KaIp1LZnQFEq9sln52Soamph5Lk2v_IcztwvhLoohpjd1rXgqtIhk69shA63HRLMP8X3Yx"
