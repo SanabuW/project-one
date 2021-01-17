@@ -1,6 +1,8 @@
 # project-one
 please see the link for the gibhub repo, the PowerPoint would be "An Electric Craving(FINAL).pptx" file, to see the code, please check the following files which all in resources folder, we would list out the files name by PowerPoint order.
 
+Writeup availabe as "Writeup.docx" in the root folder
+
 PowerPoint part 1 (by Walaa Alani) : ev_charging_cities.ipynb, charging stations.csv
 
 PowerPoint part 2 (by Tanlin, Hung) : EVname.ipynb , allvehicles_sorter.ipynb, Yearly_Price_for_EV_Regular_CA.ipynb, Compare top sales btw EV and Gas.ipynb
